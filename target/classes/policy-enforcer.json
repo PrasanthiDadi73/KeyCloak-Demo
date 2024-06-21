@@ -1,0 +1,8 @@
+{
+  "realm": "springrealm",
+  "auth-server-url": "http://localhost:8080",
+  "resource": "spring-client",
+  "credentials": {
+    "secret": "SdDO8VbMblmWhlwaFdxp5XovP4qSLDxw"
+  }
+}
